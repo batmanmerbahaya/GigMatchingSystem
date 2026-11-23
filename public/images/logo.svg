@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="480" height="480">
+    <title>Gig Matching System</title>
+    <path d="M10 8H38A6 6 0 0 1 44 14V24.5A4.5 4.5 0 0 0 44 33.5V34A6 6 0 0 1 38 40H10A6 6 0 0 1 4 34V33.5A4.5 4.5 0 0 0 4 24.5V14A6 6 0 0 1 10 8Z" fill="#0F766E"/>
+    <path d="M10.5 29H37.5" fill="none" stroke="#FFFFFF" stroke-opacity=".6" stroke-width="2.2" stroke-dasharray="2.6 3.2" stroke-linecap="round"/>
+    <path d="M24 10.5Q25.3 17.2 32 18.5Q25.3 19.8 24 26.5Q22.7 19.8 16 18.5Q22.7 17.2 24 10.5Z" fill="#FBBF24"/>
+</svg>
